@@ -34,6 +34,6 @@ $SETTINGS["api_cryptor_key"] = 'YOUR_UNIQUE_KEY'; // IMPORTANT to set your own u
 $pscm_sql["pdo"] = null; // If is null then create the new pdo connection
 $pscm_sql["host"] = 'localhost';
 $pscm_sql["user"] = 'root';
-$pscm_sql["password"] = 'skubi23';
+$pscm_sql["password"] = '';
 $pscm_sql["dbname"] = 'dbhonor';
 
